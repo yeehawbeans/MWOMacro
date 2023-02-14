@@ -25,7 +25,7 @@ Gui, Add, UpDown, vMyUpDown GsaveState Range1-10, 1
 Gui, Add, Button, w80 GexitMacro, Quit
 
 
-Gui, Show
+Gui, Show, , MWO Macro
 
 return
 
